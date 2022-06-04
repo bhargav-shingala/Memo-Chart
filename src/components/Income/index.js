@@ -18,10 +18,7 @@ const Income = () => {
         form.setFieldsValue(income)
     }, [])
     const onFinish = (values) => {
-        console.log('values :>> ', values);
-
         _income('')
-
         setTimeout(() => {
             _income(values)
         }, 1500);
