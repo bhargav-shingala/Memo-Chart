@@ -1,0 +1,14 @@
+.chart-form {
+    margin-top: 20px;
+    color: white;
+}
+
+.ant-collapse-header {
+    background-color: bisque;
+}
+
+.inputNumber {
+    width: 100%;
+    background: rgb(33, 41, 31) !important;
+    color: white;
+}

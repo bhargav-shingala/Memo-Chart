@@ -1,0 +1,12 @@
+Button {
+    background: rgb(38, 38, 35) !important;
+    border: 1px solid white !important;
+    padding: 0 80px !important;
+    margin: 20px 15% !important;
+}
+
+.constant {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
