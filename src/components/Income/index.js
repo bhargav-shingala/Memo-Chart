@@ -37,7 +37,7 @@ const Income = () => {
                 <Form
                     onFinish={onFinish}
                     form={form}
-                    labelCol={{ span: 7 }} x
+                    labelCol={{ span: 7 }} 
                     wrapperCol={{ span: 17 }}
                 >
                     <ChartForm />
